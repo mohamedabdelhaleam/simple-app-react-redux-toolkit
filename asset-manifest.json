@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-app-react-redux-toolkit/static/css/main.2484d18f.css",
+    "main.js": "/simple-app-react-redux-toolkit/static/js/main.2d754309.js",
+    "index.html": "/simple-app-react-redux-toolkit/index.html",
+    "main.2484d18f.css.map": "/simple-app-react-redux-toolkit/static/css/main.2484d18f.css.map",
+    "main.2d754309.js.map": "/simple-app-react-redux-toolkit/static/js/main.2d754309.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2484d18f.css",
+    "static/js/main.2d754309.js"
+  ]
+}
